@@ -1,0 +1,19 @@
+.cuttext-menu {
+	/* float:right; */
+	z-index:1000; 
+	/*background-color:white;*/
+	position:relative;
+	display:inline;
+}
+.cuttext-closed {
+	overflow: hidden;
+	height: 0px;
+}
+.cuttext-less {
+	float: none !important;
+	display:none;
+}
+pce {
+	position:relative;
+	z-index:1001;
+}
